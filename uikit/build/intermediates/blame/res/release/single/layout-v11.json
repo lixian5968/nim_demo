@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lixian\\Downloads\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\lixian\\Downloads\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\Android_yjm_black\\Android_coding\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_simple_decor.xml",
+        "source": "E:\\Android_yjm_black\\Android_coding\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\lixian\\Downloads\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_simple_decor.xml",
+        "source": "C:\\Users\\lixian\\Downloads\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\Android_yjm_black\\Android_coding\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "E:\\Android_yjm_black\\Android_coding\\NIM_Android_Demo_v2.4.0\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+    }
+]

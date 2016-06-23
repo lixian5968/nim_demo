@@ -1,0 +1,14 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    apply from: 'script.gradle', to: buildscript
+}
+
+allprojects {
+    repositories {
+        maven {
+            url 'http://maven.oschina.net/content/groups/public/'
+        }
+    }
+}
+//apply from: 'pack/pack.gradle'
